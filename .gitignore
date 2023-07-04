@@ -61,3 +61,6 @@ site/stats/
 ./scaletest/terraform/.terraform.lock.hcl
 scaletest/terraform/secrets.tfvars
 .terraform.tfstate.*
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
